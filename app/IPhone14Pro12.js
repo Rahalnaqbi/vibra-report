@@ -111,7 +111,7 @@ const IPhone14Pro12 = () => {
         <Text style={styles.nameYourProject}>Name your Project.</Text>
       </View>
       <View style={[styles.container, styles.framePosition]}>
-      <FontAwesome5 name="arrow-right" size={28} />
+      <FontAwesome5 name="arrow-right" color="white" size={20} />
       </View>
       <Text style={styles.vibrareport}>
         <Text style={styles.vibrareportTxt}>

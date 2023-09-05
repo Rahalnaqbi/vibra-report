@@ -107,7 +107,7 @@ const Edited215 = () => {
           source={require("../assets/ellipse-1.png")}
         />
       </View>
-      <FontAwesome5 name="share" size={28} />
+      
       <TouchableOpacity
         style={styles.touchableopacity}
         activeOpacity={0.2}
